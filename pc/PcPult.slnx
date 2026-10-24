@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PcPult.Tests/PcPult.Tests.csproj" />
+  <Project Path="PcPult/PcPult.csproj" />
+</Solution>

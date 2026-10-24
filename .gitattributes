@@ -1,0 +1,6 @@
+* text=auto
+*.go text eol=lf
+*.sh text eol=lf
+router/deploy/S99* text eol=lf
+*.ps1 text eol=crlf
+*.png binary

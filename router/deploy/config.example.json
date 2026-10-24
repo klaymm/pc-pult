@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "owner_id": 0,
+  "pc_name": "ПК",
+  "pc_mac": "00:00:00:00:00:00",
+  "pc_ip": "192.168.1.2",
+  "broadcast": "192.168.1.255:9",
+  "wake_cmd": [],
+  "listen": "192.168.1.1:8765",
+  "pc_key": "",
+  "data_dir": "/opt/etc/pc-pult",
+  "log_file": "/opt/var/log/pc-pult.log",
+  "timezone": "Europe/Moscow",
+  "tg_proxy": ""
+}

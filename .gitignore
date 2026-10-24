@@ -1,0 +1,8 @@
+deploy.local.json
+router/build/
+pc/**/bin/
+pc/**/obj/
+pc/publish/
+.vs/
+*.user
+dist/
